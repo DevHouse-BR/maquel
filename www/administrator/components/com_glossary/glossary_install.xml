@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+
+<mosinstall type="component">
+    <name>Glossary</name>
+    <creationDate>November 2008</creationDate>
+    <author>Martin Brampton and team</author>
+    <copyright>This edition of Glossary is released under the GNU/GPL License, copyright Black Sheep Research</copyright>
+    <authorEmail>martin@remository.com</authorEmail>
+    <authorUrl>www.remository.com</authorUrl>
+    <version>2.50.4</version>
+    <description>Mambo/Joomla Glossary Component</description>
+    <files>
+        <filename>glossary.php</filename>
+        <filename>glossary.class.php</filename>
+        <filename>cmsapi.interface.php</filename>
+        <filename>sef_ext.php</filename>
+        <filename>glossary.css</filename>
+		<filename>com_glossary_install_settings.php</filename>
+		<filename>com_glossary_constants.php</filename>
+		<filename>p-classes/cmsapiConfiguration.php</filename>
+		<filename>p-classes/cmsapiUserPage.php</filename>
+		<filename>p-classes/glossaryGlossary.php</filename>
+		<filename>p-classes/glossaryEntry.php</filename>
+		<filename>c-classes/glossaryControllers.php</filename>
+		<filename>c-classes/glossary_list_Controller.php</filename>
+		<filename>c-classes/glossary_edit_Controller.php</filename>
+		<filename>c-classes/glossary_save_Controller.php</filename>
+		<filename>v-classes/glossaryAlphabetHTML.php</filename>
+		<filename>v-classes/glossaryListHTML.php</filename>
+		<filename>v-classes/glossarySearchHTML.php</filename>
+		<filename>v-classes/glossaryUserHTML.php</filename>
+		<filename>v-classes/glossaryGlossaryHTML.php</filename>
+		<filename>v-classes/glossaryEditHTML.php</filename>
+		
+		<filename>c-admin-classes/cmsapiAdmin.php</filename>
+		<filename>c-admin-classes/glossaryAdminGlossaries.php</filename>
+		<filename>c-admin-classes/glossaryAdminEntries.php</filename>
+		<filename>c-admin-classes/glossaryAdminConfig.php</filename>
+		<filename>v-admin-classes/basicHTML.php</filename>
+		<filename>v-admin-classes/listCpanelHTML.php</filename>
+		<filename>v-admin-classes/glossaryToolbar.php</filename>
+		<filename>v-admin-classes/listConfigHTML.php</filename>
+		<filename>v-admin-classes/listGlossariesHTML.php</filename>
+		<filename>v-admin-classes/editGlossariesHTML.php</filename>
+		<filename>v-admin-classes/listEntriesHTML.php</filename>
+		<filename>v-admin-classes/editEntriesHTML.php</filename>
+		<filename>v-admin-classes/listAboutHTML.php</filename>
+		<filename>language/english.php</filename>
+		<filename>language/russian.php</filename>
+		<filename>language/ukrainian.php</filename>
+		<filename>index.html</filename>
+    </files>
+    <images>
+		<filename>images/glosslogo.png</filename>
+		<filename>images/add_file.gif</filename>
+		<filename>images/edit.gif</filename>
+		<filename>images/admin/categories.png</filename>
+		<filename>images/admin/addedit.png</filename>
+		<filename>images/admin/user.png</filename>
+		<filename>images/admin/module.png</filename>
+		<filename>images/admin/config.png</filename>
+		<filename>images/admin/langmanager.png</filename>
+		<filename>images/admin/sections.png</filename>
+		<filename>images/admin/searchtext.png</filename>
+		<filename>images/admin/cpanel.png</filename>
+		<filename>images/admin/trash.png</filename>
+		<filename>images/admin/mediamanager.png</filename>
+		<filename>images/admin/dbrestore.png</filename>
+		<filename>images/admin/impressions.png</filename>
+		<filename>images/admin/credits.png</filename>
+		<filename>images/admin/support.png</filename>
+    </images>
+    <install>
+			<queries>
+			    <query>
+				CREATE TABLE IF NOT EXISTS `#__glossary` (
+				`id` int(10) NOT NULL auto_increment,
+				`tletter` char(1) NOT NULL default '',
+				`tterm` varchar(40) NOT NULL default '',
+				`tdefinition` text NOT NULL,
+				`tname` varchar(20) NOT NULL default '',
+				`tloca` varchar(60) default NULL,
+				`tmail` varchar(60) default NULL,
+				`tpage` varchar(150) default NULL,
+				`tdate` datetime default NULL,
+				`tcomment` text,
+				`tedit` enum('y','n') NOT NULL default 'n',
+				`teditdate` datetime default NULL,
+				`published` tinyint(1) NOT NULL default 0,
+				`catid` int(3) NOT NULL default '0',
+				`checked_out` int(11) NOT NULL default 0,
+				PRIMARY KEY  (`id`),
+				UNIQUE KEY `term` (`tterm`),
+				FULLTEXT KEY `tdefinition` (`tdefinition`)
+				) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+				</query>
+				<query>
+				CREATE TABLE IF NOT EXISTS `#__glossaries` (
+					`id` int(10) NOT NULL auto_increment,
+					`name` varchar(120) NOT NULL default '',
+					`description` varchar(255) NOT NULL default '',
+					`published` tinyint(1) UNSIGNED NOT NULL default 0,
+					`isdefault` tinyint(1) UNSIGNED NOT NULL default 0,
+					PRIMARY KEY  (`id`)
+					) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+				</query>
+				<query>
+				CREATE TABLE IF NOT EXISTS `#__cmsapi_configurations` (
+					`component` varchar(100) NOT NULL,
+					`instance` int(10) NOT NULL default 0,
+					`configuration` mediumtext NOT NULL default '',
+					PRIMARY KEY  (`component`)
+					) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+				</query>
+       		</queries>
+    </install>
+    <installfile>install.glossary.php</installfile>
+    <uninstall>
+        <queries>
+        </queries>
+    </uninstall>
+	<administration>
+		<menu act="cpanel">Glossary</menu>
+		<files>
+			<filename>admin.css</filename>
+			<filename>read_me.txt</filename>
+			<filename>admin.glossary.php</filename>
+			<filename>toolbar.glossary.php</filename>
+		</files>
+		<images>
+			<filename>images/add_file.gif</filename>
+			<filename>images/edit.gif</filename>
+		</images>
+	</administration>
+</mosinstall>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="module" version="1.0.0">
+	<name>Navegação DropDown</name>
+	<author>Leonardo Lima de Vasconcellos</author>
+	<creationDate>Novembro 2008</creationDate>
+	<copyright>(C) All rights reserved.</copyright>
+	<license>http://www.devhouse.com.br</license>
+	<authorEmail>leonardo@devhouse.com.br</authorEmail>
+	<authorUrl>www.devhouse.com.br</authorUrl>
+	<translation>Idioma pt-br</translation>
+	<translationDate>30-10-2008</translationDate>
+    <version>1.0.0</version>
+	<description>O módulo de Navegação dropdown mostra todas as categorias de uma determinada seção e seus respectivos conteúdos.</description>
+	<files>
+		<filename module="mod_contentdropdownnav">mod_contentdropdownnav.php</filename>
+	</files>
+	<params>
+		<param name="sectionID" type="mos_section" default="0" label="Seção" description="Uma seção de conteúdo" />
+		<param name="textoAntesCategoria" type="text" default="Escolha a Região" label="Label da Categoria" description="Texto antes do menu da categoria" />
+		<param name="textoAntesConteudo" type="text" default="Escolha a Cidade" label="Label do Item de Conteúdo" description="Texto antes do menu do conteúdo" />
+		
+		
+		
+		
+		<!--<param name="style" type="list" default="random" label="Estilo" description="O estilo para exibição da categoria">
+		    <option value="random">Selecionada aleatoriamente</option>
+			<option value="horiz">Horizontal</option>
+			<option value="vert">Vertical</option>
+		</param>
+		<param name="image" type="radio" default="0" label="Exibir Imagens" description="Exibir imagens de itens de conteúdo">
+			<option value="1">Sim</option>
+			<option value="0">Não</option>
+		</param>
+		<param name="link_titles" type="list" default="" label="Títulos como Link" description="Transforma títulos de Artigo em links">
+			<option value="">Use Global</option>
+			<option value="0">Não</option>
+			<option value="1">Sim</option>
+		</param>
+        <param name="readmore" type="radio" default="0" label="Leia Mais" description="Exibir/Ocultar a botão Leia Mais">
+            <option value="0">Ocultar</option>
+            <option value="1">Exibir</option>
+        </param>
+        <param name="item_title" type="list" default="0" label="Título do Item" description="Exibir título do Item">
+                <option value="0">Não</option>
+                <option value="1">Sim</option>
+        </param>
+		<param name="items" type="text" default="" label="Nº. de Itens" description="Número de itens a exibir" />
+		<param name="cache" type="radio" default="0" label="Habilitar Cache" description="Selecione se deseja realizar cache do conteúdo para este módulo">
+			<option value="0">Não</option>
+			<option value="1">Sim</option>
+		</param>
+		<param name="moduleclass_sfx" type="text" default="" label="Sufixo de Classe da Página" description="Um sufixo para ser aplicado à classe css da página, isto permite um estilo de página individual" />
+		-->
+	</params>
+</mosinstall>

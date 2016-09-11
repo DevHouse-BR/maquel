@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall version="1.0.0" type="mambot" group="system">
+	<name>sIFR mambot</name>
+	<author>Adam van Dongen</author>
+	<creationDate>August 2006</creationDate>
+	<copyright>(C) 2006 Joomla-addons.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorUrl>www.joomla-addons.org</authorUrl>
+	<version>1.2</version>
+	<description>Loads sIFR inside joomla, place the following code at the bottom of your template (just before <![CDATA[&lt;/body&gt;&lt;/html&gt;]]>) to make it work:
+&lt;pre&gt;
+<![CDATA[
+&lt;script type="text/javascript"&gt;
+if(typeof sIFR == "function"){
+  sIFR.replaceElement(".contentheading, .componentheading", named(
+    {sFlashSrc: "mambots/system/tradegothic.swf", sColor: "#c64934", sWmode: "transparent"}
+  ));
+}
+&lt;/script&gt;]]>
+&lt;/pre&gt;
+	  </description>
+	<files>
+		<filename mambot="bot_sifr">bot_sifr.php</filename>
+		<filename>sIFR-print.css</filename>
+		<filename>sIFR-screen.css</filename>
+		<filename>sifr.js</filename>
+		<filename>sifr-addons.js</filename>
+		<filename>tradegothic.swf</filename>
+		<filename>vandenkeere.swf</filename>
+	</files>
+	<params/>
+</mosinstall>
