@@ -35,30 +35,30 @@ defined('_VALID_MOS') or die('Restricted access');
 *  $this->order->direction (string) : current order direction
 */
 ?>
-<div class="dm_orderby"> <?php echo _DML_TPL_ORDER_BY ?> :
+<div class="dm_orderby"> Ordenar por :
 <?php
 	if($this->order->orderby != 'name') :
-		?><a href="<?php echo $this->order->links['name'] ?>"><?php echo _DML_TPL_ORDER_NAME ?></a> | <?php
+		?><a href="<?php echo $this->order->links['name'] ?>">Nome</a> | <?php
 	else :
- 		?><strong><?php echo _DML_TPL_ORDER_NAME ?> </strong> | <?php
+ 		?><strong>Nome </strong> | <?php
  	endif;
 
 	if($this->order->orderby != 'date') :
- 		?><a href="<?php echo $this->order->links['date'] ?>"><?php echo _DML_TPL_ORDER_DATE ?></a> | <?php
+ 		?><a href="<?php echo $this->order->links['date'] ?>">Data</a> | <?php
  	else :
- 		?><strong><?php echo _DML_TPL_ORDER_DATE ?> </strong> | <?php
+ 		?><strong>Data </strong> | <?php
  	endif;
 
  	if($this->order->orderby != 'hits') :
- 		?><a href="<?php echo $this->order->links['hits'] ?>"><?php echo _DML_TPL_ORDER_HITS ?></a> <?php
+ 		?><a href="<?php echo $this->order->links['hits'] ?>">Acessos</a> <?php
  	else :
- 		?><strong><?php echo _DML_TPL_ORDER_HITS ?> </strong> | <?php
+ 		?><strong>Acessos </strong> | <?php
  	endif;
 
 	if ($this->order->direction == 'ASC') :
-		?><a href="<?php echo $this->order->links['dir'] ?>">[ <?php echo _DML_TPL_ORDER_DESCENT ?> ]</a><?php
+		?><a href="<?php echo $this->order->links['dir'] ?>">[ Desc ]</a><?php
    	else :
-       	 ?><a href="<?php echo $this->order->links['dir'] ?>">[ <?php echo _DML_TPL_ORDER_ASCENT ?> ]</a><?php
+       	 ?><a href="<?php echo $this->order->links['dir'] ?>">[ Asc ]</a><?php
     endif;
 ?>
 </div>

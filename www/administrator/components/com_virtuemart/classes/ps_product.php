@@ -2036,7 +2036,7 @@ class ps_product extends vmAbstractObject {
 	 * @param boolean $show_price Show the product price?
 	 * @param boolean $show_addtocart Show the add-to-cart link?
 	 */
-	function product_snapshot( $product_sku, $show_price=true, $show_addtocart=true ) {
+	function product_snapshot( $product_sku, $show_price=true, $show_addtocart=true, $show_product_s_desc=false ) {
 
 		global $sess, $VM_LANG, $mm_action_url;
 
@@ -2045,12 +2045,17 @@ class ps_product extends vmAbstractObject {
 		require_once(CLASSPATH.'ps_product_category.php');
 		$ps_product_category = new ps_product_category;
 
-		$q = "SELECT product_id, product_name, product_parent_id, product_thumb_image FROM #__{vm}_product WHERE product_sku='$product_sku'";
+		$q = "SELECT product_id, product_name, product_parent_id, product_thumb_image, product_s_desc FROM #__{vm}_product WHERE product_sku='$product_sku'";
 		$db->query( $q );
 		$html = "";
 		if ($db->next_record()) {
 
 			$cid = $ps_product_category->get_cid( $db->f("product_id" ) );
+
+			$html .= "<a class=\"product_thumb_image\" title=\"".$db->f("product_name")."\" href=\"". $sess->url($mm_action_url. "index.php" . $url)."\">";
+			$html .= $this->image_tag($db->f("product_thumb_image"), "alt=\"".$db->f("product_name")."\"");
+			$html .= "</a>\n";
+
 
 			$html .= "<span style=\"font-weight:bold;\">".$db->f("product_name")."</span>\n";
 			$html .= "<br />\n";
@@ -2062,9 +2067,9 @@ class ps_product extends vmAbstractObject {
 				$url = "?page=shop.product_details&category_id=$cid&flypage=".$this->get_flypage($db->f("product_id"));
 				$url .= "&product_id=" . $db->f("product_id");
 			}
-			$html .= "<a title=\"".$db->f("product_name")."\" href=\"". $sess->url($mm_action_url. "index.php" . $url)."\">";
-			$html .= $this->image_tag($db->f("product_thumb_image"), "alt=\"".$db->f("product_name")."\"");
-			$html .= "</a><br />\n";
+			
+			$html .= $db->f("product_s_desc") . "<br />";
+			/*$html .= "<a style=\"float:right;\" title=\"".$db->f("product_name")."\" href=\"". $sess->url($mm_action_url. "index.php" . $url)."\">Leia Mais...</a>\n";*/
 
 			if (_SHOW_PRICES == '1' && $show_price) {
 				// Show price, but without "including X% tax"

@@ -7,7 +7,7 @@ class glossaryAlphabetHTML {
 		$baselink = 'index.php?option=com_glossary&task=list';
 		if ($glossary->id) $baselink .= '&glossid='.$glossary->id;
 		$baselink .= '&letter=';
-		$letterhtml[] = 'All' == $currentletter ? 'All' : "<a href=\"{$baselink}All\">All</a>";
+		//$letterhtml[] = 'Todos' == $currentletter ? 'Todos' : "<a href=\"{$baselink}All\">Todos</a>";
 		foreach ($letters as $letter) {
 			if ($currentletter == $letter) $letterhtml[] = $letter;
 			else {

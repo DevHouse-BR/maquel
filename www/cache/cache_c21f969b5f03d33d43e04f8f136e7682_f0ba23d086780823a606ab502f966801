@@ -1,49 +1,960 @@
-                       443893268<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss2full.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?><rss xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0"><channel><title>Blog  - Joomlatools</title><link>http://blog.joomlatools.org/search/label/docman</link><description>We are a small team of expert Joomla! consultants who joined forces in 2006.
+                      1425796631<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+    <channel>
+        <title>Blog - Joomlatools</title>
+        <description>We're a close-knit team of product designers who help grow businesses and work to create simple and powerful Joomla extensions.</description>
+        <link>https://www.joomlatools.com/blog/</link>
+        <atom:link href="https://www.joomlatools.com/blog.rss" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>LOGman 3.0 Beta joins the party</title>
+            <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
+            <link>https://www.joomlatools.com/blog/2016/07/logman-beta-joins-the-party/</link>
+            <guid isPermaLink="true">https://www.joomlatools.com/blog/2016/07/logman-beta-joins-the-party/</guid>
+            <description>
+                <![CDATA[
+                
+                    <img width="800" src="https://www.joomlatools.com/images/blog/2016/logman-beta/logman-cover.jpg" alt="" />
+                
+                <p>With <a href="https://www.joomlatools.com/blog/2016/06/docman-30-beta2-is-available/">DOCman</a> and <a href="https://www.joomlatools.com/blog/2016/06/fileman-30-beta2-is-available/">FILEman</a> beta packages already available, it’s time for LOGman to join the party. We are happy to announce the first beta for LOGman 3.0.</p>
 
-Our business activity revolves around Joomla! training and consulting services and the development of extensions for the Joomla! community.
+<!--more-->
 
-We are active contributors or committers on several open source projects most importantly Joomla!</description><language>en</language><managingEditor>noreply@blogger.com (Laurens Vandeput)</managingEditor><lastBuildDate>Fri, 21 Nov 2008 23:19:48 -0600</lastBuildDate><generator>Blogger http://www.blogger.com</generator><openSearch:totalResults xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">9</openSearch:totalResults><openSearch:startIndex xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">1</openSearch:startIndex><openSearch:itemsPerPage xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/">25</openSearch:itemsPerPage><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.feedburner.com/docman" type="application/rss+xml" /><item><title>Saying goodbye to an old friend !</title><link>http://feeds.feedburner.com/~r/docman/~3/386786254/saying-goodbye-to-old-friend.html</link><category>docman</category><category>johan</category><author>noreply@blogger.com (Johan Janssens)</author><pubDate>Mon, 08 Sep 2008 16:44:44 -0500</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-9202268460760907948.post-7924907773793339916</guid><app:edited xmlns:app="http://purl.org/atom/app#">2008-09-08T23:44:44.851+02:00</app:edited><thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total><description>Today we say goodbye to mambodocman.com. Launched in March 2004 it has served the DOCman project for over 4 years.   Last November we moved the forums over and today we are letting the curtain fall over the old site.
-Saying Thanks!
+<p>This new major version includes:</p>
 
-This is an excellent opportunity to say thanks.  First of all a big round of applause goes to Vasco Nunes, founder and original developer of DOCman.  Vasco started development of DOCman in the summer of 2003 and worked on the project from versions 1.0 to 1.3.
-Vasco...&lt;img src="http://feeds.feedburner.com/~r/docman/~4/386786254" height="1" width="1"/&gt;</description><feedburner:origLink>http://blog.joomlatools.org/2008/09/saying-goodbye-to-old-friend.html</feedburner:origLink></item><item><title>Developing DOCman addons</title><link>http://feeds.feedburner.com/~r/docman/~3/371389501/developing-docman-addons.html</link><category>docman</category><category>mathias</category><category>licenses</category><author>noreply@blogger.com (Mathias Verraes)</author><pubDate>Sat, 06 Sep 2008 12:20:22 -0500</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-9202268460760907948.post-7373615600158255058</guid><app:edited xmlns:app="http://purl.org/atom/app#">2008-09-06T19:20:22.686+02:00</app:edited><thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total><description>It never ceases to amaze me: DOCman has crossed 700.000 downloads (since March 2007, not counting alternative download locations). That makes it one of the most popular Joomla extensions out there. Because it's so widespread, recently a lot of new third party DOCman addons have popped up. They even have their own category in the Joomla extensions directory. If you've developed one of these, or you're planning on releasing a DOCman addon, rest assured: we're totally cool with that. In fact, we...&lt;img src="http://feeds.feedburner.com/~r/docman/~4/371389501" height="1" width="1"/&gt;</description><feedburner:origLink>http://blog.joomlatools.org/2008/08/developing-docman-addons.html</feedburner:origLink></item><item><title>Swiss Joomla! Bootcamp — Last Chance</title><link>http://feeds.feedburner.com/~r/docman/~3/297392113/swiss-bootcamp-see-nooku-and-siteman-in.html</link><category>bootcamp</category><category>event</category><category>docman</category><category>siteman</category><category>nooku</category><category>peter</category><author>noreply@blogger.com (Peter Russell)</author><pubDate>Sat, 06 Sep 2008 12:12:36 -0500</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-9202268460760907948.post-100920336303964090</guid><app:edited xmlns:app="http://purl.org/atom/app#">2008-09-06T19:12:36.314+02:00</app:edited><thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total><description>Joomlatools is honoured to be involved in what's sure to be an outstanding Joomla! Swiss Bootcamp.  Joomlatools architects: Johan Janssens, Mathias Verraes and Laurens Vandeput will be presenting in Lucern, Switzerland, 30-31 May.
+<ul id="markdown-toc">
+  <li><a href="#redesigned-user-interface" id="markdown-toc-redesigned-user-interface">Redesigned User Interface</a></li>
+  <li><a href="#additional-activity-filters" id="markdown-toc-additional-activity-filters">Additional activity filters</a></li>
+  <li><a href="#routing-support-in-frontend" id="markdown-toc-routing-support-in-frontend">Routing support in frontend</a></li>
+  <li><a href="#linker-new-editor-plugin" id="markdown-toc-linker-new-editor-plugin">Linker, new editor plugin</a></li>
+  <li><a href="#other-minor-improvements" id="markdown-toc-other-minor-improvements">Other minor improvements</a></li>
+  <li><a href="#what-is-next" id="markdown-toc-what-is-next">What is next?</a></li>
+</ul>
 
-For new and experienced developers
+<h2 id="redesigned-user-interface">Redesigned User Interface</h2>
 
+<p>Just like DOCman and FILEman, LOGman also got a new look with a modern and responsive UI, completely redesigned and focussed on improving the user experience on mobile devices.</p>
 
-The Bootcamp has been designed to empower professional developers with the insight and skills to create more powerful and elegant code in Joomla! 1.5.  While the Bootcamp will provide skilled developers with first rate technical...&lt;img src="http://feeds.feedburner.com/~r/docman/~4/297392113" height="1" width="1"/&gt;</description><feedburner:origLink>http://blog.joomlatools.org/2008/05/swiss-bootcamp-see-nooku-and-siteman-in.html</feedburner:origLink></item><item><title>DOCman 1.4.0 RC3 Released</title><link>http://feeds.feedburner.com/~r/docman/~3/255530408/docman-140-rc3-released.html</link><category>open source</category><category>docman</category><category>mathias</category><category>optimization</category><author>noreply@blogger.com (Mathias Verraes)</author><pubDate>Sat, 06 Sep 2008 12:19:03 -0500</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-9202268460760907948.post-147699933171663890</guid><app:edited xmlns:app="http://purl.org/atom/app#">2008-09-06T19:19:03.995+02:00</app:edited><thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total><description>Joomlatools has released DOCman 1.4.0 RC3. This new version is mainly a bug fix release, but it also  has two new important improvements.
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-all-components.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-all-components.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-all-components.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-all-components.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-all-components.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-all-components.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-all-components.jpg?w=590&amp;auto=format&amp;q=90" alt="Overview all logged actions." />
+    </picture>
+    
+    <figcaption><p>Overview all logged actions.</p>
+</figcaption>
+    
+</figure>
 
-Help!
+<h2 id="additional-activity-filters">Additional activity filters</h2>
 
+<p>LOGman now allows you to better control what is being logged and/or displayed. We added granular filtering control over the actions from resources of each component.</p>
 
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-filters.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-filters.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-filters.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-filters.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-filters.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-filters.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-filters.png?w=590&amp;auto=format&amp;q=90" alt="Filter the LOGman logs when creating a Menu Item." />
+    </picture>
+    
+    <figcaption><p>Filter the LOGman logs when creating a Menu Item.</p>
+</figcaption>
+    
+</figure>
 
-DOCman now sports a shiny new Help button. The cool thing about it, is that the you will always get the most up to date information. The button takes you straight to the FAQ section, which has almost a hundred entries. Even cooler is that you can help updating the information in the FAQ submissions forum.
+<p>The same filter is also made available for filtering notifications that get sent by the <a href="https://www.joomlatools.com/extensions/logman/documentation/plugins/activity-notifier/">LOGman - Activity Notifier plugin</a>.</p>
 
+<h2 id="routing-support-in-frontend">Routing support in frontend</h2>
 
+<p>Resource links in a frontend activity stream now link to frontend pages when possible:</p>
 
+<ul>
+  <li>The resource is exposed by at least one published menu item</li>
+  <li>The menu item and the resource are accessible by the current logged user</li>
+</ul>
 
+<p>This has been a most requested but very challenging feature. Joomla does not make it easy to find URLs from resources that get exposed in the frontend. Luckily we don’t give up easily and got it working.</p>
 
-Performance Improvements
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-frontend.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-frontend.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-frontend.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-frontend.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-frontend.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-frontend.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-frontend.png?w=590&amp;auto=format&amp;q=90" alt="Resource links are now clickable in the frontend." />
+    </picture>
+    
+    <figcaption><p>Resource links are now clickable in the frontend.</p>
+</figcaption>
+    
+</figure>
 
-DOCman now...&lt;img src="http://feeds.feedburner.com/~r/docman/~4/255530408" height="1" width="1"/&gt;</description><feedburner:origLink>http://blog.joomlatools.org/2008/03/docman-140-rc3-released.html</feedburner:origLink></item><item><title>DOCman Security Announcement</title><link>http://feeds.feedburner.com/~r/docman/~3/237802900/docman-security-announcement.html</link><category>open source</category><category>docman</category><category>mathias</category><category>security</category><author>noreply@blogger.com (Mathias Verraes)</author><pubDate>Sat, 06 Sep 2008 12:17:26 -0500</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-9202268460760907948.post-8665705321177893273</guid><app:edited xmlns:app="http://purl.org/atom/app#">2008-09-06T19:17:26.613+02:00</app:edited><thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">6</thr:total><description>Joomlatools would like to announce the immediate availability of DOCman v1.4.0RC2.
+<h2 id="linker-new-editor-plugin">Linker, new editor plugin</h2>
 
+<p>Linker is a new editor plugin that takes advantage of the new frontend routing support. This plugin allows for easy linking of site resources while editing content.</p>
 
-Recently, a CSRF vulnerability was discovered in DOCman. An attacker can have the same access permissions as the administrator. In the right circumstances, this can be exploited to change data or obtain shell access. All 1.3.x versions, as well as 1.4.0BETA2 and 1.4.0RC1 are vulnerable. Therefore it is recommended to all users to upgrade to the new v1.4.0RC2.
+<p>By simply searching by title, you are prompted with a list of linkable site resources to insert into the content editor. These links will take your users to the resource page they are pointing to.</p>
 
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-linker.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-linker.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-linker.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-linker.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-linker.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-linker.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/logman-beta/logman-linker.png?w=590&amp;auto=format&amp;q=90" alt="Modal with list of linkable site resources." />
+    </picture>
+    
+    <figcaption><p>Modal with list of linkable site resources.</p>
+</figcaption>
+    
+</figure>
 
-CSRF or 'cross site request forgery' is a...&lt;img src="http://feeds.feedburner.com/~r/docman/~4/237802900" height="1" width="1"/&gt;</description><feedburner:origLink>http://blog.joomlatools.org/2008/02/docman-security-announcement.html</feedburner:origLink></item><item><title>Migrating DOCman to Joomla! 1.5</title><link>http://feeds.feedburner.com/~r/docman/~3/231128048/migrating-docman-to-joomla-15.html</link><category>bootcamp</category><category>event</category><category>migration</category><category>docman</category><category>joomla 1.5</category><category>mathias</category><author>noreply@blogger.com (Mathias Verraes)</author><pubDate>Sat, 06 Sep 2008 12:17:18 -0500</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-9202268460760907948.post-3342392585571849530</guid><app:edited xmlns:app="http://purl.org/atom/app#">2008-09-06T19:17:18.690+02:00</app:edited><thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">9</thr:total><description>Last week I was at the Dutch Joomla BootCamp, which was organised by our friends from Jira. Johan gave one of his famous unstoppable sessions about the Joomla framework and the MVC model. Jisse talked about templates, and brought along the very first copy of his new book on templates (a rather thorough one I must add, it goes beyond any book on templates I've seen -- too bad it's in Dutch only for now).
+<p>This makes for a nice little companion while drafting any kind of content and the only one of its kind!</p>
 
-Finally, I gave a presentation about migrating a Joomla! 1.0 site to Joomla! 1.5, and took...&lt;img src="http://feeds.feedburner.com/~r/docman/~4/231128048" height="1" width="1"/&gt;</description><feedburner:origLink>http://blog.joomlatools.org/2008/01/migrating-docman-to-joomla-15.html</feedburner:origLink></item><item><title>Released today: Joomla! 1.5 Stable</title><link>http://feeds.feedburner.com/~r/docman/~3/231128049/released-today-joomla-15-stable.html</link><category>bootcamp</category><category>event</category><category>migration</category><category>docman</category><category>joomla 1.5</category><category>siteman</category><category>mathias</category><author>noreply@blogger.com (Mathias Verraes)</author><pubDate>Sat, 06 Sep 2008 12:17:14 -0500</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-9202268460760907948.post-8231258704558390758</guid><app:edited xmlns:app="http://purl.org/atom/app#">2008-09-06T19:17:14.253+02:00</app:edited><thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total><description>Anyone who's been around in the Joomlasphere for the last couple of days, could feel something was buzzing... And what better time for an announcement like this than right after the DocCamp weekend? So with no further ado, ladies and gentleman, may I present to you...
-Joomla! 1.5
+<h2 id="other-minor-improvements">Other minor improvements</h2>
 
+<ul>
+  <li>Added E-mail layout support to LOGman - Notifier plugin</li>
+  <li>Added Romanian and Japanese languages</li>
+</ul>
 
+<h2 id="what-is-next">What is next?</h2>
 
+<p>At this point we are aiming for a second beta release within a couple of months. The stable release will follow shortly after.</p>
 
+<p>Most of the remaining development tickets are minor improvements compared to the new functionality added in this beta release.</p>
 
-Joomla! 1.5 the greatest thing since someone said 'Hey, what if we connect these two computers to each other?'
+<p>The most important remaining features are:</p>
 
-Joomla! was born on August 17, 2005, so it's now 2.4 years old... in human years. Similar to dog...&lt;img src="http://feeds.feedburner.com/~r/docman/~4/231128049" height="1" width="1"/&gt;</description><feedburner:origLink>http://blog.joomlatools.org/2008/01/released-today-joomla-15-stable.html</feedburner:origLink></item><item><title>Joomla! 1.5RC4 Memory Usage and Legacy Mode</title><link>http://feeds.feedburner.com/~r/docman/~3/231128050/joomla-15rc4-memory-usage-and-legacy.html</link><category>docman</category><category>development</category><category>joomla 1.5</category><category>mathias</category><category>optimization</category><author>noreply@blogger.com (Mathias Verraes)</author><pubDate>Sat, 06 Sep 2008 12:16:50 -0500</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-9202268460760907948.post-6822319534605477215</guid><app:edited xmlns:app="http://purl.org/atom/app#">2008-09-06T19:16:50.970+02:00</app:edited><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://bp3.blogger.com/_MAKgBvKtZx4/R2KH3nkNPbI/AAAAAAAAADA/oJqD1Pp2yHs/s72-c/enableplugin2.png" height="72" width="72" /><thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">1</thr:total><description>There seems to be some misunderstanding in the Joomla! community about legacy mode. It is considered by many to be a 'bad thing', that should be avoided at all cost. But in fact:
-Joomla! v1.5RC4 + PHP5 + Legacy mode = Super efficient!
-Legacy mode is actually a Joomla! system plugin. It allows you to use extensions that were written for Joomla! 1.0.x (and even Mambo) in you 1.5 site. It is a part of the core distribution of Joomla!, but it is disabled by default. It is said to offer over 90%...&lt;img src="http://feeds.feedburner.com/~r/docman/~4/231128050" height="1" width="1"/&gt;</description><feedburner:origLink>http://blog.joomlatools.org/2007/12/joomla-15rc4-memory-usage-and-legacy.html</feedburner:origLink></item><item><title>DOCman - Category versus document permissions</title><link>http://feeds.feedburner.com/~r/docman/~3/231128051/joomla-docman-category-vs-document.html</link><category>tips'n'tricks</category><category>docman</category><category>mathias</category><category>optimization</category><author>noreply@blogger.com (Mathias Verraes)</author><pubDate>Sat, 06 Sep 2008 12:16:46 -0500</pubDate><guid isPermaLink="false">tag:blogger.com,1999:blog-9202268460760907948.post-2565526519702963233</guid><app:edited xmlns:app="http://purl.org/atom/app#">2008-09-06T19:16:46.531+02:00</app:edited><thr:total xmlns:thr="http://purl.org/syndication/thread/1.0">0</thr:total><description>There's been a lot of confusion lately about category permissions in DOCman. Many people are trying to use categories in the same way they are using documents. Let me try to clear up the misunderstanding.
-DOCman uses Joomla!'s category system. This design decision dates back from the Mambo days (before Joomla! was born -- yes, DOCman has been around for a while!) As you may know, categories in Joomla! have very limited access control, just like everything else: you can assign them to the...&lt;img src="http://feeds.feedburner.com/~r/docman/~4/231128051" height="1" width="1"/&gt;</description><feedburner:origLink>http://blog.joomlatools.org/2007/12/joomla-docman-category-vs-document.html</feedburner:origLink></item></channel></rss>
+<ul>
+  <li>Logging of request data for security applications and audits</li>
+  <li>A plugin for logging page hits</li>
+  <li>A simpler developer API for easier integration with LOGman</li>
+</ul>
+
+<p>We encourage you to <a href="https://support.joomlatools.com/downloads/extras/logman20/14-beta-versions">download</a> this beta release and give it a try. We are most interested in your feedback to get the stable version out as soon as possible.</p>
+
+<p>Thank you for your support!</p>
+
+                ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>Intranet template featuring DOCman</title>
+            <pubDate>Wed, 20 Jul 2016 00:00:00 +0000</pubDate>
+            <link>https://www.joomlatools.com/blog/2016/07/intranet-template-featuring-docman/</link>
+            <guid isPermaLink="true">https://www.joomlatools.com/blog/2016/07/intranet-template-featuring-docman/</guid>
+            <description>
+                <![CDATA[
+                
+                    <img width="800" src="https://www.joomlatools.com/images/blog/2016/docman-joomlart/docman-joomlart.jpg" alt="" />
+                
+                <p>Our friends at JoomlArt released their latest “<a href="https://www.joomlart.com/joomla/templates/ja-intranet">JA Intranet</a>” template. A Joomla 3 template specifically designed for intranets.</p>
+
+<p>The template comes with a complete customized styling for DOCman. DOCman blends in seamlessly and looks great!</p>
+
+<!--more-->
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-category-page.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-category-page.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-category-page.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-category-page.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-category-page.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-category-page.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-category-page.jpg?w=590&amp;auto=format&amp;q=90" alt="DOCman's hierarchical table layout." />
+    </picture>
+    
+    <figcaption><p>DOCman’s hierarchical table layout.</p>
+</figcaption>
+    
+</figure>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-detail-page.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-detail-page.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-detail-page.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-detail-page.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-detail-page.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-detail-page.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/docman-joomlart/docman-joomlart-detail-page.jpg?w=590&amp;auto=format&amp;q=90" alt="A DOCman document details page." />
+    </picture>
+    
+    <figcaption><p>A DOCman document details page.</p>
+</figcaption>
+    
+</figure>
+
+<p>The template also offers support for <a href="http://stackideas.com/easyblog">EasyBlog</a>, <a href="http://stackideas.com/easysocial">EasySocial</a> &amp; <a href="http://stackideas.com/easydiscuss">EasyDiscuss</a>.</p>
+
+<h2 id="fileman--logman-support">FILEman &amp; LOGman support</h2>
+
+<p>The JoomlArt team even told us that FILEman and LOGman support is coming in the next version of the template. How cool is that!</p>
+
+<h2 id="try-before-you-buy">Try before you buy</h2>
+
+<p>Curious? <a href="http://ja-intranet.demo.joomlart.com/index.php/en/download">Try the demo</a>.</p>
+
+<p>We are happy to offer you a 20% reduction on all products from <a href="http://stackideas.com/">StackIdeas</a> &amp; <a href="https://www.joomlart.com/">JoomlArt</a> using the coupon code: <strong>JAINTRA</strong> (valid till 25 July 2016).</p>
+
+                ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>DOCman 3.0 Beta 2 is available</title>
+            <pubDate>Wed, 29 Jun 2016 00:00:00 +0000</pubDate>
+            <link>https://www.joomlatools.com/blog/2016/06/docman-30-beta2-is-available/</link>
+            <guid isPermaLink="true">https://www.joomlatools.com/blog/2016/06/docman-30-beta2-is-available/</guid>
+            <description>
+                <![CDATA[
+                
+                    <img width="800" src="https://www.joomlatools.com/images/blog/2016/docman30-beta2/documents.jpg" alt="" />
+                
+                <p>We have been working hard since the <a href="/blog/2016/05/docman-30-beta-is-here/">first beta of DOCman 3.0</a> less then two months ago. We fixed 34  bugs and finished all <a href="https://www.joomlatools.com/blog/2016/05/docman-30-beta-is-here/#what-next">promised features</a>.</p>
+
+<!--more-->
+
+<p>Some of the newly added, major features are:</p>
+
+<ul id="markdown-toc">
+  <li><a href="#tags" id="markdown-toc-tags">Tags</a></li>
+  <li><a href="#custom-ordering" id="markdown-toc-custom-ordering">Custom ordering</a></li>
+  <li><a href="#search-and-filter-in-front-end" id="markdown-toc-search-and-filter-in-front-end">Search and filter in front-end</a></li>
+  <li><a href="#user-group-management" id="markdown-toc-user-group-management">User group management</a></li>
+  <li><a href="#restructured-menu-items" id="markdown-toc-restructured-menu-items">Restructured menu items</a></li>
+  <li><a href="#whats-next" id="markdown-toc-whats-next">What’s next?</a></li>
+</ul>
+
+<h2 id="tags">Tags</h2>
+
+<p>This has been the most requested feature for years and it’s finally here. You can tag documents and filter front-end menu items based on one or more tags.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/tags.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/tags.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/tags.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/tags.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/tags.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/tags.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/tags.jpg?w=590&amp;auto=format&amp;q=90" alt="List of tags." />
+    </picture>
+    
+    <figcaption><p>List of tags.</p>
+</figcaption>
+    
+</figure>
+
+<h2 id="custom-ordering">Custom ordering</h2>
+
+<p>You can now order documents and categories by dragging and dropping to display them in your preferred order in the front-end.</p>
+
+<p><img src="https://www.joomlatools.com/images/blog/2016/docman30-beta2/ordering.gif" alt="" class="image-blog-styled" /></p>
+
+<h2 id="search-and-filter-in-front-end">Search and filter in front-end</h2>
+
+<p>Finding a document in a long list can sometimes be difficult for your site visitors. You can now enable a search field and additional filters to make it easier to find the desired document.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/search.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/search.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/search.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/search.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/search.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/search.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/search.jpg?w=590&amp;auto=format&amp;q=90" alt="" />
+    </picture>
+    
+    <figcaption>
+</figcaption>
+    
+</figure>
+
+<h2 id="user-group-management">User group management</h2>
+
+<p>DOCman uses group based permissions to make it easier to assign permissions to documents and categories.</p>
+
+<p>A common request was an easy to use interface to assign users to groups from within DOCman. Now you can use the new users view to assign users to groups.</p>
+
+<h2 id="restructured-menu-items">Restructured menu items</h2>
+
+<p>Menu items have been streamlined and made easier to use. We added additional flexibility with 2 new filters: by tag and by owner. You can also set the menu item to only show documents from the logged in user.</p>
+
+<p>Each menu item type (hierarchical, flat, tree) now also supports the same set of layouts: list, table or image gallery.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/menu-item.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/menu-item.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/menu-item.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/menu-item.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/menu-item.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/menu-item.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/docman30-beta2/menu-item.jpg?w=590&amp;auto=format&amp;q=90" alt="Menu Items are now easier to use and more flexible." />
+    </picture>
+    
+    <figcaption><p>Menu Items are now easier to use and more flexible.</p>
+</figcaption>
+    
+</figure>
+
+<h2 id="whats-next">What’s next?</h2>
+
+<p>We are now stabilizing DOCman 3.0 and preparing it for a stable release. This is where your help can make a great difference. We would love to hear your feedback and issues.</p>
+
+<p>You can <a href="https://support.joomlatools.com/downloads/extras/docman2/12-beta-versions">download the second beta</a> from our Support Center. Already testing the first beta? Just download &amp; install the new version.</p>
+
+<p>Give it a try and let us know!</p>
+
+                ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>FILEman 3.0 Beta 2 is available</title>
+            <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+            <link>https://www.joomlatools.com/blog/2016/06/fileman-30-beta2-is-available/</link>
+            <guid isPermaLink="true">https://www.joomlatools.com/blog/2016/06/fileman-30-beta2-is-available/</guid>
+            <description>
+                <![CDATA[
+                
+                    <img width="800" src="https://www.joomlatools.com/images/blog/2016/fileman30-beta2/files.jpg" alt="" />
+                
+                <p>Roughly 2 months ago the <a href="https://www.joomlatools.com/blog/2016/03/say-hi-to-fileman-30-beta/">first beta of FILEman 3.0</a> was publicly released introducing some exciting new features. Today we announce the second beta with more new goodies.</p>
+
+<!--more-->
+
+<ul id="markdown-toc">
+  <li><a href="#redesigned-user-interface" id="markdown-toc-redesigned-user-interface">Redesigned User Interface</a></li>
+  <li><a href="#frontend-management" id="markdown-toc-frontend-management">Frontend management</a></li>
+  <li><a href="#docman-attachments-support" id="markdown-toc-docman-attachments-support">DOCman attachments support</a></li>
+  <li><a href="#bug-fixes-and-minor-improvements" id="markdown-toc-bug-fixes-and-minor-improvements">Bug fixes and minor improvements</a></li>
+  <li><a href="#what-is-next" id="markdown-toc-what-is-next">What is next?</a></li>
+</ul>
+
+<h2 id="redesigned-user-interface">Redesigned User Interface</h2>
+
+<p>During the last year we have been redesigning the User Interface (UI) of all of our components. Today FILEman gets released with a new, modern, and responsive UI.</p>
+
+<p>We want our customers to have the best user experience ever on any kind of device. From personal computers with large screens to small smartphones, FILEman is guaranteed to look good and provide a faster and more straightforward experience.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/files-full.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/files-full.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/files-full.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/files-full.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/files-full.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/files-full.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/files-full.jpg?w=590&amp;auto=format&amp;q=90" alt="The redesigned Files view in the administrator." />
+    </picture>
+    
+    <figcaption><p>The redesigned Files view in the administrator.</p>
+</figcaption>
+    
+</figure>
+
+<h2 id="frontend-management">Frontend management</h2>
+
+<p>FILEman is now 100% manageable from the frontend. You can now create and delete folders from any of the current available views. Users with create and delete permissions will be able to create and delete folders respectively.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/frontend-management.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/frontend-management.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/frontend-management.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/frontend-management.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/frontend-management.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/frontend-management.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/frontend-management.jpg?w=590&amp;auto=format&amp;q=90" alt="Create folders, upload and delete files from the frontend." />
+    </picture>
+    
+    <figcaption><p>Create folders, upload and delete files from the frontend.</p>
+</figcaption>
+    
+</figure>
+
+<h2 id="docman-attachments-support">DOCman attachments support</h2>
+
+<p>FILEman 3.0 Beta 1 introduced <a href="https://www.joomlatools.com/blog/2016/03/say-hi-to-fileman-30-beta/#attachments">attachments support for Joomla articles</a>. The FILEman attachments implementation is fully re-usable and can be integrated with any component that makes use of a text editor for adding content.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/docman-attachments.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/docman-attachments.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/docman-attachments.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/docman-attachments.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/docman-attachments.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/docman-attachments.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/fileman30-beta2/docman-attachments.jpg?w=590&amp;auto=format&amp;q=90" alt="DOCman document with two attachments." />
+    </picture>
+    
+    <figcaption><p>DOCman document with two attachments.</p>
+</figcaption>
+    
+</figure>
+
+<p>For this release we wanted to show the power of FILEman attachments by integrating it with DOCman. You can now attach more than a single file to a DOCman document. This way a document may have a main file and one or more attachments which are made available in the detailed document view.</p>
+
+<h2 id="bug-fixes-and-minor-improvements">Bug fixes and minor improvements</h2>
+
+<ul>
+  <li>Added download button on gallery views</li>
+  <li>Added Taiwanese and Polish translations</li>
+  <li>Fixed dots encoding issue on IIS servers</li>
+  <li>Fixed problem when saving permissions on Joomla 3.5.x</li>
+  <li>Fixed the unlimited files per page setting</li>
+  <li>Removed .htaccess file preventing direct linking</li>
+  <li>Simplified menu item settings by improving the layouts</li>
+</ul>
+
+<h2 id="what-is-next">What is next?</h2>
+
+<p>We believe that this might be the last beta release. We are aiming to release FILEman 3.0 stable within a couple of months.</p>
+
+<p>Feature-wise we will be working on adding individual folder protection support. This is the last new feature from this release cycle that is pending implementation.</p>
+
+<p>We encourage you to <a href="https://support.joomlatools.com/downloads/extras/fileman20/13-beta-versions">download</a> this beta release and give it a try. We are most interested in your feedback to get the stable version out as soon as possible.</p>
+
+<p>Enjoy!</p>
+
+                ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>DOCman Notify 2.1 is out</title>
+            <pubDate>Thu, 19 May 2016 00:00:00 +0000</pubDate>
+            <link>https://www.joomlatools.com/blog/2016/05/docman-notify-2-1-is-out/</link>
+            <guid isPermaLink="true">https://www.joomlatools.com/blog/2016/05/docman-notify-2-1-is-out/</guid>
+            <description>
+                <![CDATA[
+                
+                    <img width="800" src="https://www.joomlatools.com/images/blog/2016/mail-box.jpg" alt="" />
+                
+                <p>Good news! Over the past few weeks we have worked on improving our DOCman Notify plugin.</p>
+
+<p>We’re excited to bring you some awesome new features:</p>
+
+<ul>
+  <li>Document groups notifications</li>
+  <li>Control the actions that trigger notifications</li>
+  <li>Debug notifications</li>
+  <li>Customizable emails</li>
+</ul>
+
+<!--more-->
+
+<h2 id="what-is-docman-notify">What is DOCman Notify?</h2>
+
+<p>Whether you are running a Joomla powered intranet or website, you often want to keep a close eye on what your users are doing. Especially when they are allowed to edit documents or upload new files. With DOCman Notify it’s super easy to set up email notifications.</p>
+
+<h2 id="whats-new">What’s new?</h2>
+
+<h3 id="notify-document-groups">Notify document groups</h3>
+
+<p>When enabled, the plugin will notify users of user groups with access to the document. The maximum amount of users to be notified this way is 25. If  this number is exceeded these notifications will not get sent and a warning message will get displayed when debug mode is enabled.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-settings.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-settings.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-settings.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-settings.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-settings.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-settings.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-settings.png?w=590&amp;auto=format&amp;q=90" alt="Configure who receives notifications" />
+    </picture>
+    
+    <figcaption><p>Configure who receives notifications</p>
+</figcaption>
+    
+</figure>
+
+<h3 id="control-the-events-that-trigger-notifications">Control the events that trigger notifications</h3>
+
+<p>You may now decide which events trigger notifications in the plugin settings.</p>
+
+<p>Additionally to <strong>add</strong>, <strong>edit</strong> and <strong>delete</strong> events, we added support for:</p>
+
+<ul>
+  <li><strong>Submit</strong>: when a document is submitted from the front-end</li>
+  <li><strong>Publish</strong>: when a document is published</li>
+  <li><strong>Assign</strong>: when a document is assigned (owner change)</li>
+  <li><strong>Download</strong>: when a document is downloaded</li>
+</ul>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-events.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-events.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-events.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-events.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-events.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-events.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/docman-notify-21/notify-plugin-events.png?w=590&amp;auto=format&amp;q=90" alt="Configure notification events" />
+    </picture>
+    
+    <figcaption><p>Configure notification events</p>
+</figcaption>
+    
+</figure>
+
+<h3 id="debug-notifications">Debug notifications</h3>
+
+<p>When <strong>Debug System</strong> is enabled in Joomla, notifications being sent by the plugin are shown to the logged-in user as system messages. Great for testing your configuration without having to open your mailbox.</p>
+
+<p><img src="https://www.joomlatools.com/images/blog/2016/docman-notify-21/alert.png" alt="Notification message" /></p>
+
+<p>Additionally, users who have Joomla’s <strong>Receive System Emails</strong> setting enabled on their profile will receive debug notifications with a list of recipients by email.</p>
+
+<h3 id="customizations">Customizations</h3>
+
+<p>Notifications can now be customized by using template overrides, just as you would do for customizing the output of any Joomla extension. Through template overrides you now have full control over the content of the notifications that get sent.</p>
+
+<p class="text--center"><a href="https://support.joomlatools.com/downloads/extras/docman2/10-addons" class="button button--cta">Download DOCman Notify 2.1.0</a></p>
+
+                ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>DOCman 2.1.5 is out</title>
+            <pubDate>Tue, 10 May 2016 00:00:00 +0000</pubDate>
+            <link>https://www.joomlatools.com/blog/2016/05/docman-215-is-out/</link>
+            <guid isPermaLink="true">https://www.joomlatools.com/blog/2016/05/docman-215-is-out/</guid>
+            <description>
+                <![CDATA[
+                
+                    <img width="800" src="https://www.joomlatools.com/images/blog/2015/docman21.png" alt="" />
+                
+                <p>We are proud to announce that DOCman 2.1.5 is out! This maintenance release fixes reported bugs and significantly improves performance, further strengthening the stability of DOCman 2.1 series.</p>
+
+<!--more-->
+
+<p>One major improvement in this release is the improved caching. Sites with hundreds of categories will notice a big difference in speed.</p>
+
+<p>We also added Polish, Japanese, and Chinese Traditional translations. DOCman now speaks <a href="https://www.joomlatools.com/extensions/docman/#docman-speaks">20 languages</a> and more on the way. Big thanks to all our translators for their help!</p>
+
+<p>Check the complete <a href="https://www.joomlatools.com/extensions/docman/changelog/2.1.5/">changelog</a> of this new release or give DOCman a test drive today on <a href="http://demo.joomlatools.com/joomla3/">our demo site</a>.</p>
+
+<p>If you have an active DOCman subscription you can download this release at no extra cost. Don’t have an active DOCman subscription? <a href="https://www.joomlatools.com/pricing/">Subscribe now</a>.</p>
+
+<p class="text--center"><a href="https://support.joomlatools.com/downloads/product/docman2" class="button button--cta">Download DOCman 2.1.5</a></p>
+
+                ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>DOCman 3.0 beta is here</title>
+            <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
+            <link>https://www.joomlatools.com/blog/2016/05/docman-30-beta-is-here/</link>
+            <guid isPermaLink="true">https://www.joomlatools.com/blog/2016/05/docman-30-beta-is-here/</guid>
+            <description>
+                <![CDATA[
+                
+                    <img width="800" src="https://www.joomlatools.com/images/blog/2016/docman_30.jpg" alt="" />
+                
+                <p>We are proud the announce the first beta of DOCman 3. This is a major version with loads of new features and improvements. In this release we have focused on laying the groundwork for a more powerful yet easier to use document management experience for your Joomla website.</p>
+
+<!--more-->
+
+<p>A few major new features:</p>
+
+<ul>
+  <li><a href="#redesigned-user-interface">Redesigned user interface</a></li>
+  <li><a href="#frontend-category-management">Frontend category management</a></li>
+  <li><a href="#new-uploader">New uploader</a></li>
+  <li><a href="#improved-file-management">Improved file management</a></li>
+  <li><a href="#automatic-document-creation">Automatic document creation</a></li>
+  <li><a href="#significant-performance-improvements">Significant performance improvements</a></li>
+</ul>
+
+<h2 id="redesigned-user-interface">Redesigned user interface</h2>
+
+<p>We worked hard on a brand new, modern, and responsive user interface that takes advantage of the modern web. The user interface has been a year in the making going through various iterations.</p>
+
+<p>The user interface aims at providing a faster, more usable experience on any kind of device, from small smartphone screens to large monitors. We simplified the layout of all views to make DOCman more self-explanatory and easily discoverable.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman_30_filters.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman_30_filters.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman_30_filters.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman_30_filters.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman_30_filters.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman_30_filters.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/docman_30_filters.jpg?w=590&amp;auto=format&amp;q=90" alt="Screenshot of the redesigned documents filters." />
+    </picture>
+    
+    <figcaption><p>Screenshot of the redesigned documents filters.</p>
+</figcaption>
+    
+</figure>
+
+<h2 id="frontend-category-management">Frontend category management</h2>
+
+<p>Better front end management has been a much requested feature, and we did our best to make it happen. With DOCman 3 you can create, edit, or delete categories from frontend. Users no longer need administrator access to manage their documents and categories!</p>
+
+<h2 id="new-uploader">New uploader</h2>
+
+<p>The file uploader has been completely rebuild to make it both more compact and easier to use. No more popup, just a single field to select your files, or drag and drop them. Simple and easy as it should be.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman_30_upload.jpg?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman_30_upload.jpg?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman_30_upload.jpg?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/docman_30_upload.jpg?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/docman_30_upload.jpg?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/docman_30_upload.jpg?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/docman_30_upload.jpg?w=590&amp;auto=format&amp;q=90" alt="Screenshot of the redesigned uploader." />
+    </picture>
+    
+    <figcaption><p>Screenshot of the redesigned uploader.</p>
+</figcaption>
+    
+</figure>
+
+<h2 id="improved-file-management">Improved file management</h2>
+
+<p>DOCman now automatically manages and syncs categories and folders for you. Uploaded files are organized per category into distinct folders. You don’t ever have to move files around or worry about where to add the new files, just upload a file and let DOCman do the rest!</p>
+
+<h2 id="automatic-document-creation">Automatic document creation</h2>
+
+<p>Using FTP, or a shared network drive to upload your files? DOCman 3 can create a document from an uploaded file on the fly.</p>
+
+<p>When a new file is uploaded, DOCman automatically finds which category it should go into based on the folder it’s uploaded in and creates the corresponding document for you. Just a little bit of magic.</p>
+
+<h2 id="significant-performance-improvements">Significant performance improvements</h2>
+
+<p>The new version comes with significant performance improvements that speed up both backend and frontend of DOCman. Moreover, we have added a base caching layer that allows us to make future improvements in later versions.</p>
+
+<h2 id="what-next">What next?</h2>
+
+<p>We are still working on a number of features for the next beta. Like tags, search, user group management, document ordering, etc.</p>
+
+<p>We would love to get your feedback already, you can <a href="https://support.joomlatools.com/downloads/extras/docman2/12-beta-versions">download</a> the beta from the support center. Give it a try and let us know!</p>
+
+                ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>Don&#39;t install too many Joomla extensions</title>
+            <pubDate>Tue, 29 Mar 2016 00:00:00 +0000</pubDate>
+            <link>https://www.joomlatools.com/blog/2016/03/dont-install-too-many-joomla-extensions/</link>
+            <guid isPermaLink="true">https://www.joomlatools.com/blog/2016/03/dont-install-too-many-joomla-extensions/</guid>
+            <description>
+                <![CDATA[
+                
+                    <img width="800" src="https://www.joomlatools.com/images/blog/2016/extensions-manager.jpg" alt="" />
+                
+                <p>Thanks to the huge collection of Joomla extensions almost any functionality you can think of is available in a few clicks. Trying new extensions is fun, but don’t add one extension after another just because you can.</p>
+
+<!--more-->
+
+<h2 id="how-many-extensions-can-i-install">How many extensions can I install?</h2>
+
+<p>Joomla has no limit in the amount of extensions (plugins, components, modules and templates) you can install.</p>
+
+<p>Your website will work fine as long as all the extensions are compatible with Joomla, each other and the server environment. However, never install unfamiliar extensions in live websites.</p>
+
+<h2 id="try-in-a-separate-installation">Try in a separate installation</h2>
+
+<p>The best way to discover if an extension really fits your needs is by trying it yourself. It’s good to start exploring an extension in a separate Joomla installation. Or, even better, in a local copy of your live website.</p>
+
+<p>Using our <a href="https://www.joomlatools.com/developer/tools/vagrant/">Vagrant box</a> you can install new Joomla sites locally in seconds.</p>
+
+<h2 id="uninstall-what-you-dont-need">Uninstall what you don’t need</h2>
+
+<p>Make sure to check all installed extensions before moving the site into production. Maybe the requirements of the client changed and you had to use another extension but forgot to uninstall the previous one.</p>
+
+<p>Do a full backup before doing anything so you can always restore any error. Oh, and don’t forget to backup, the backup!</p>
+
+<h2 id="dedicated-support">Dedicated support</h2>
+
+<p>Even the best Joomla extension can break and often in the worst possible moment. Make sure every installed extension is actively supported. So you won’t be on your own when you encounter a problem.</p>
+
+<p>Need help? We offer dedicated <a href="https://support.joomlatools.com">support</a> for our <a href="https://www.joomlatools.com/extensions/">extensions</a> and also <a href="https://www.joomlatools.com/enterprise/">enterprise consulting services</a>.</p>
+
+                ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>Say hi to FILEman 3.0 beta</title>
+            <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
+            <link>https://www.joomlatools.com/blog/2016/03/say-hi-to-fileman-30-beta/</link>
+            <guid isPermaLink="true">https://www.joomlatools.com/blog/2016/03/say-hi-to-fileman-30-beta/</guid>
+            <description>
+                <![CDATA[
+                
+                    <img width="800" src="https://www.joomlatools.com/images/blog/2016/fileman_30_beta.png" alt="" />
+                
+                <p>We are happy to announce the <strong>beta release of FILEman 3.0</strong>. This new major version brings a load of new features to make file management on your Joomla sites <strong>better and easier</strong>.</p>
+
+<!--more-->
+
+<p>New features:</p>
+
+<ul>
+  <li><a href="#attachments">Attachments</a>, attach documents and images to Joomla articles</li>
+  <li><a href="#modules">Two new modules</a>, Files &amp; Folders module</li>
+  <li><a href="#frontend-management">Frontend management</a>, manage files without administrator access</li>
+  <li><a href="#new-uploader">New uploader</a>, compact and easier to use</li>
+  <li><a href="#configuration">Configuration</a>, independent configuration settings</li>
+</ul>
+
+<h2 id="attachments">Attachments</h2>
+
+<p>FILEman 3.0 comes with <strong>built-in attachments support</strong>. Just create or edit an article and click on the new attachments editor button to bring up the attachments window for adding and removing attachments from the article.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_managment.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_managment.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_managment.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_managment.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_managment.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_managment.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_managment.png?w=590&amp;auto=format&amp;q=90" alt="Screenshot of FILEman attachment management UI" />
+    </picture>
+    
+    <figcaption><p>Screenshot of FILEman attachment management UI</p>
+</figcaption>
+    
+</figure>
+
+<p>Atachments are displayed below the articles content. Each attachment is displayed with its download link and thumbnails are available for images. A click over an image thumbnail will bring a <strong>full sized preview</strong> of the image file.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_frontend.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_frontend.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_frontend.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_frontend.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_frontend.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_frontend.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/fileman_30_attachments_frontend.png?w=590&amp;auto=format&amp;q=90" alt="Screenshot of FILEman attachments in article content" />
+    </picture>
+    
+    <figcaption><p>Screenshot of FILEman attachments in article content</p>
+</figcaption>
+    
+</figure>
+
+<p>Do you need to customize the look and feel of attachments in your articles? … fear not. You can completely modify the way attachments are displayed by simply using <strong>template overrides</strong>.</p>
+
+<p>Any resource that exposes a text editor may support attachments through FILEman. This beta release includes support for attaching files to Joomla articles. We are planning on <strong>supporting other components</strong> in future releases.</p>
+
+<h2 id="modules">Modules</h2>
+
+<p>Two new modules make their entrance in this version:</p>
+
+<h3 id="fileman---files">FILEman - Files</h3>
+
+<p>This module displays a list of files in any module position. Files that are listed can come from one or multiple folders and be filtered using a variety of filters.</p>
+
+<h3 id="fileman---folders">FILEman - Folders</h3>
+
+<p>This module provides a list of folders that gets displayed in a module position. Folders can be based on a specific root folder and the module offers support to show the whole folder hierarchy.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_modules.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_modules.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_modules.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_modules.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_modules.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_modules.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/fileman_30_modules.png?w=590&amp;auto=format&amp;q=90" alt="Screenshot of FILEman Files and Folders modules" />
+    </picture>
+    
+    <figcaption><p>Screenshot of FILEman Files and Folders modules</p>
+</figcaption>
+    
+</figure>
+
+<p>Both modules are <strong>highly customizable</strong> and can be configured to accommodate different case scenarios.</p>
+
+<h2 id="frontend-management">Frontend management</h2>
+
+<p>We have further improved frontend management features to make it possible to manage your file listings without needing administrator access.</p>
+
+<p>The beta release allows users with delete permissions to <strong>delete files</strong> through the frontend user interface.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_frontend_delete.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_frontend_delete.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_frontend_delete.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_frontend_delete.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_frontend_delete.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_frontend_delete.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/fileman_30_frontend_delete.png?w=590&amp;auto=format&amp;q=90" alt="Screenshot of frontend delete interface" />
+    </picture>
+    
+    <figcaption><p>Screenshot of frontend delete interface</p>
+</figcaption>
+    
+</figure>
+
+<p>This is the first step of many towards frontend management with FILEman. We are currently working on providing full frontend file management capabilities including the ability of <strong>adding folders from site</strong>. We aim to have these new features ready for the stable release.</p>
+
+<h2 id="new-uploader">New Uploader</h2>
+
+<p>We have rebuilt our file uploader to make it both more <strong>compact and easier to use</strong>.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_uploader.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_uploader.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_uploader.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_uploader.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_uploader.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_uploader.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/fileman_30_uploader.png?w=590&amp;auto=format&amp;q=90" alt="Screenshot of the new uploader" />
+    </picture>
+    
+    <figcaption><p>Screenshot of the new uploader</p>
+</figcaption>
+    
+</figure>
+
+<h2 id="configuration">Configuration</h2>
+
+<p>FILEman now ships with its own configuration manager and no longer makes use of the Joomla com_media configuration settings. Configuring the component is now <strong>easy and straightforward</strong>.</p>
+
+<figure>
+    <picture>
+        
+        <source media="(min-width: 400px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_configuration.png?w=590&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_configuration.png?w=885&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_configuration.png?w=1180&amp;auto=format&amp;q=90 2x" />
+        
+        <source media="(min-width: 0px)" srcset="https://joomlatools.imgix.net/images/blog/2016/fileman_30_configuration.png?w=400&amp;auto=format&amp;q=90,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_configuration.png?w=600&amp;auto=format&amp;q=90 1.5x,
+                https://joomlatools.imgix.net/images/blog/2016/fileman_30_configuration.png?w=800&amp;auto=format&amp;q=90 2x" />
+        <img class="image-blog-styled" src="https://joomlatools.imgix.net/images/blog/2016/fileman_30_configuration.png?w=590&amp;auto=format&amp;q=90" alt="Screenshot of the new FILEman configuration UI" />
+    </picture>
+    
+    <figcaption><p>Screenshot of the new FILEman configuration UI</p>
+</figcaption>
+    
+</figure>
+
+<p>The new configuration manager provides full control over the location to store files, file size limitations, thumbnails support and allowed file types. It also features a new <strong>email notification list</strong> so that users get notified when a file is uploaded.</p>
+
+<p>We hope that you are as excited as we are with this new major release of the component. We have put a lot of <strong>love and effort</strong> to make this happen! Some more features are still being worked on for the stable release.</p>
+
+<p>We encourage you to <a href="https://support.joomlatools.com/downloads/extras/fileman20/13-beta-versions">download</a> this beta release and <strong>give it a try</strong>. We are most interested on your feedback to get the stable version out as soon as possible.</p>
+
+<p>Enjoy!</p>
+
+                ]]>
+            </description>
+        </item>
+        
+        <item>
+            <title>EXTman 2.2 is out</title>
+            <pubDate>Tue, 23 Feb 2016 00:00:00 +0000</pubDate>
+            <link>https://www.joomlatools.com/blog/2016/02/extman-22-is-out/</link>
+            <guid isPermaLink="true">https://www.joomlatools.com/blog/2016/02/extman-22-is-out/</guid>
+            <description>
+                <![CDATA[
+                
+                    <img width="800" src="https://www.joomlatools.com/images/blog/2016/data-migration.jpg" alt="" />
+                
+                <p>This new release fixes various bugs our customers reported and also adds an important, much requested feature: migration of DOCman between sites.</p>
+
+<!--more-->
+
+<h2 id="migrating-docman-between-sites">Migrating DOCman between sites</h2>
+
+<p>Many of our customers requested to move DOCman data between different sites. With this release EXTman gained support for exporting and importing DOCman data between sites.</p>
+
+<p><img src="/images/documentation/tutorials/docman-import.png" alt="Import process" /></p>
+
+<p>You can find extensive instructions on how to run the migration <a href="https://www.joomlatools.com/extensions/docman/documentation/migrations/">in the documentation.</a></p>
+
+<h2 id="and-more">And more</h2>
+
+<p>This release also contains many bug fixes on our framework making all our extensions more stable and robust.</p>
+
+<h2 id="upgrading">Upgrading</h2>
+
+<p>Simply download the <a href="https://support.joomlatools.com/downloads/product/extman20">latest EXTman version</a> and make sure you have <a href="/blog/2016/01/docman-214-is-out/">DOCman 2.1.4</a> installed which was released last month.</p>
+
+<p>If you have an active Joomlatools subscription you have immediate access to EXTman 2.2 at no additional cost. If you do not have a subscription you can purchase a <a href="/pricing/">bundle or single extension subscription</a> in a matter of minutes.</p>
+
+                ]]>
+            </description>
+        </item>
+        
+    </channel>
+</rss>

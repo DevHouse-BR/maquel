@@ -21,7 +21,7 @@ ADD_ENTRY_HTML;
 
 		echo <<<GLOSSARY_DISPLAY
 		
-		<h2>$glossary->description</h2>
+		
 		$itemcount
 		$addhtml
 		$searchhtml
@@ -30,9 +30,6 @@ ADD_ENTRY_HTML;
 		$listhtml
 		$navigation
 		$glosshtml
-		<div id="glossarycredit" class="small">
-			Glossary 2.5 is technology by <a href="http://guru-php.com">Guru PHP</a>
-		</div>
 
 GLOSSARY_DISPLAY;
 

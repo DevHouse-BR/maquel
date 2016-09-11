@@ -44,12 +44,13 @@
 											<table width="100%" cellpadding="0" cellspacing="4">
 												<tr>
 													<?php if ( mosCountModules( 'left' ) ) { ?>
-														<td width="150" valign="top" bgcolor="#e2d6e2">
+														<td width="150" valign="top" bgcolor="#e2d6e2" style="padding-left: 4px;">
 															<? mosLoadModules ( 'left', -2 ); ?>
 														</td>
 													<? } ?>
 														<td valign="top">
 															<?php mosMainBody(); ?>
+															<div class="separator"></div>
 															<?php if ( mosCountModules( 'user2' ) ) { ?>
 																<div>
 																	<? mosLoadModules ( 'user2', -2 ); ?>
