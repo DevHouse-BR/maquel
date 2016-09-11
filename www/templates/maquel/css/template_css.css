@@ -13,9 +13,6 @@ body{
 table.menu {
 	width:100%;
 }
-.moduletable .article_seperator {
-	display: none;
-}
 .moduletable h3 {
 	padding-left: 6px;
 }
@@ -109,7 +106,7 @@ table.moduletable td {
 	padding-top:10px;
 	padding-bottom:10px;
 }
-.contentpaneopen{
+.contentpaneopen, .contentpaneopen-home{
 	color:#2a2a2a;
 	font-size:12px;
 }
@@ -175,7 +172,16 @@ table.forme td{
 	color:#2a2a2a;
 	padding:5px;
 }
-
+.vertical-text {
+	transform: rotate(90deg);
+	transform-origin: left top 0;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	background-color: #843051;
+	padding: 4px;
+	margin-left:21px;
+}
 #product_list div h3{
 	font-family:Verdana, Arial, Helvetica, sans-serif;
 	font-size:12px !important;
@@ -191,4 +197,7 @@ table.forme td{
 	color: #82357b;
 	text-decoration:none;
 	display:block;
+}
+.moduletable .article_seperator, body > table > tbody > tr > td:nth-child(2) > table > tbody > tr:nth-child(3) > td > table > tbody > tr > td:nth-child(1) > table > tbody > tr > td:nth-child(1) > table > tbody > tr > td > div > span {
+	display: none;
 }
